@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Money Saving</string>
+    <string name="text_welcome">Chào mừng</string>
+    <string name="login">Đăng nhập</string>
+    <string name="register"> Đăng ký</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="have_no_account">Chưa có tài khoản? Tạo tài khoản ngay!</string>
+    <string name="already_have_an_account">Đã có tài khoản? Đăng nhập ngay!</string>
+    <string name="fullName">Họ và tên</string>
+    <string name="email">Email</string>
+    <string name="password">Mật khẩu</string>
+    <string name="btnForgotPassword">Quên mật khẩu?</string>
+    <string name="tvForgotPassword">
+        Nhập địa chỉ email mà bạn đã dùng để đăng ký tài khoản để chúng tôi gửi email hướng dẫn lấy lại mật khẩu
+    </string>
+    <string name="btnResetPassword">Gửi</string>
+    <string name="email_sent">Email đã được gửi</string>
+
+    <string name="error_login_info">Thông tin đăng nhập không chính xác</string>
+    <string name="error_user_not_found">Không tìm thấy người dùng</string>
+    <string name="error_weak_password">
+        Mật khẩu yếu. Vui lòng chọn mật khẩu từ 6 ký tự trở lên</string>
+    <string name="error_invalid_email">Email không hợp lệ.</string>
+    <string name="error_full_name_field_empty">Vui lòng nhập Họ và tên</string>
+    <string name="error_user_name_field_empty">Vui lòng nhập Tên người dùng</string>
+    <string name="error_email_field_empty">Vui lòng nhập Email</string>
+    <string name="error_password_field_empty">Vui lòng nhập Mật khẩu</string>
+    <string name="error_email_taken">Một tài khoản khác đã sử dụng email này</string>
+    <string name="error_username_taken">Tên người dùng đã tồn tại</string>
+    <string name="error_network">Lỗi mạng</string>
+    <string name="error_read_data">Lỗi khi đọc dữ liệu</string>
+    <string name="try_again_later">Vui lòng thử lại sau</string>
+
+    <string name="title_home">Trang chủ</string>
+    <string name="title_budget">Ngân sách</string>
+    <string name="title_profile">Hồ sơ</string>
+</resources>

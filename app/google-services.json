@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "439751176716",
+    "project_id": "money-saving-a0889",
+    "storage_bucket": "money-saving-a0889.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439751176716:android:08182399e3c96cea173429",
+        "android_client_info": {
+          "package_name": "com.example.moneysaving"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf4LHsC681eZGVt1LyrKGhUUAbu2pkrXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
